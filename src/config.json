@@ -1,0 +1,12 @@
+{
+  "UserAgent": "DownloadManager/1.0",
+  "MetaFile": "meta.json",
+  "MinimumSegmentBytes": 1048576,
+  "RedirectLimit": 5,
+  "PersistInterval": 1000,
+  "RETRIES":{
+    "MAX": 5,
+    "DELAY": 500,
+    "REFRESH": 200
+  }
+}

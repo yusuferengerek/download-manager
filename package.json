@@ -1,0 +1,24 @@
+{
+  "name": "download-manager",
+  "version": "1.0.0",
+  "description": "A lightweight, segment-based download manager implemented in Node.js.",
+  "keywords": [
+    "Node.JS",
+    "download-manager"
+  ],
+  "homepage": "https://github.com/yusuferengerek/download-manager#readme",
+  "bugs": {
+    "url": "https://github.com/yusuferengerek/download-manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusuferengerek/download-manager.git"
+  },
+  "license": "MIT",
+  "author": "Yusuf Eren Gerek",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}
