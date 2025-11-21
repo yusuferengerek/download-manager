@@ -10,8 +10,9 @@ Standards
 
 Reporting
 
-If you experience or witness unacceptable behavior, contact the maintainers at: `maintainer@yusuferengerek.dev` (create an email or replace with preferred contact). Include details and any relevant context.
+If you experience or witness unacceptable behavior, contact the maintainers at: `yusuferengerek@hotmail.com`. Include details and any relevant context.
 
 Enforcement
 
 Maintainers will review reports and may take action including warnings, removal of offending content, or banning repeat offenders.
+
